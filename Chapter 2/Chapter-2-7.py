@@ -1,0 +1,2 @@
+# A Condition is a special operation used to compare the booleans given to it and return the respective boolean
+# Conditions can be used when we need to execute only one block of code out of 2 depending on what we what the output to be

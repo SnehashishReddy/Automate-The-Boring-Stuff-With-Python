@@ -1,0 +1,2 @@
+# In a function, the code that's supposed to be executed is written.
+# When that function is called in the code, the code will be redirected to the point where the code for the function was written and then, executes it.

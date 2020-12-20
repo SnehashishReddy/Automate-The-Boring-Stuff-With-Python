@@ -1,1 +1,0 @@
-# Functions reduce the need for duplicate code thus, making the project more readable and cleaner

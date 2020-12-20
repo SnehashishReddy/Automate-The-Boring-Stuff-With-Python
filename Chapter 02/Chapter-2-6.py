@@ -1,2 +1,0 @@
-# The equal to(==) operator compares both of the sides of the operator and checks if they're equal to each other
-# The assignment(=) operator assigns the value on the right side to the variable on the left side

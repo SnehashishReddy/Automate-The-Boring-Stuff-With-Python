@@ -1,1 +1,0 @@
-# spam[-1] will evaluate to 'd'

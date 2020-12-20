@@ -1,1 +1,0 @@
-# True and False are the two values of the Boolean data type

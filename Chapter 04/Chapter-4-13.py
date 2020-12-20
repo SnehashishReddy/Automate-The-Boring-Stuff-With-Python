@@ -1,1 +1,0 @@
-# lists are mutable, tuples are immutable (elements in tuples can't be modified in any way)

@@ -1,2 +1,0 @@
-# break stops the execution of further code in the loop and proceeds downward out of the loop
-# continue stops the execution of further code in the loop and returns control to the beginning of the loop,i.e. still in the loop.

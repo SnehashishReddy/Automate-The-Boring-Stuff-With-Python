@@ -1,1 +1,0 @@
-# The variable is destroyed

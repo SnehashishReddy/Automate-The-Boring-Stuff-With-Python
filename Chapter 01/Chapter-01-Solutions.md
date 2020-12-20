@@ -1,4 +1,4 @@
-# Solutions for the exercises in Chapter 01 of the book "Automate The Boring Stuff With Python" authored by Al Sweigart
+# Solutions for the exercises in Chapter 01
 
 ## Chapter 01: 1st Practice Question
 \* is an operator\

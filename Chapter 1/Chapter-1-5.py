@@ -1,1 +1,0 @@
-# an expression's purpose is to return a value while a statement's purpose is to perform a very specific operation.

@@ -1,0 +1,1 @@
+# bacon.remove('cat') will remove the first instance of 'cat' it finds in the list thus, making bacon = [3.14,11,'cat',True]

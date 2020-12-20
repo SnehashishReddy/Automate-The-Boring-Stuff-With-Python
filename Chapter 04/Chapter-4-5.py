@@ -1,0 +1,1 @@
+# spam[:2] will be evaluated to the list ['a','b']

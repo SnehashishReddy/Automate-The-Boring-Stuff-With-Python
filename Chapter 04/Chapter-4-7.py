@@ -1,0 +1,1 @@
+# bacon.append(99) will append the integer 99 to the end of the original list of bacon thus, making bacon = [3.14,'cat',11,'cat',True,99]

@@ -1,0 +1,1 @@
+# spam[int(int('3'*2)//11)] will be evaluated to 'd'
